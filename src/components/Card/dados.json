@@ -1,0 +1,50 @@
+        [
+            {
+                "imagem": "https://i.imgur.com/iUp2Qao.png",
+                "titulo": "Cortina Franzida",
+                "texto": "As dobras ficam intercaladas nos dois sentidos e produzem um efeito maior de ondulação.",
+                "alt": "Cortina Franzida"
+            }, 
+            {
+                "imagem": "https://i.imgur.com/6d7iDON.png",
+                "titulo": "Cortina Rolô",
+                "texto": "As persianas rolô são um tipo de cortina prática e versátil. Elas podem ser usadas em praticamente qualquer cômodo da casa.",
+                "alt": "Cortina Rolô"
+            },
+            {
+                "imagem": "https://i.imgur.com/a500Ar5.png",
+                "titulo": "Cortina Prega Macho",
+                "texto": "Com este tipo de prega, o volume do tecido se concentra na frente, proporcionando um caimento reto e elegante.",
+                "alt": "Cortina Prega Macho"
+            },
+            {
+                "imagem": "https://i.imgur.com/UN9KHIY.png",
+                "titulo": "Cortina Romana",
+                "texto": "Este produto tem por característica suas listras horizontais, e quando encolhido forma gomos.",
+                "alt": "Cortina Romana"
+            }, 
+            {
+                "imagem": "https://i.imgur.com/7gXJ0nb.png",
+                "titulo": "Cortina Rolô Double Vision",
+                "texto": "Composta por duas telas de tecidos paralelas e unida em um trilho superior, o fechamento completo das listras oferece privacidade e um ambiente escuro dependendo do tecido escolhido.",
+                "alt": "Cortina Rolô Double Vision"
+            },
+            {
+                "imagem": "https://i.imgur.com/O61aT60.png",
+                "titulo": "Persiana Horizontal",
+                "texto": "Sua composição monocromática dá um equilíbrio perfeito a esse produto, permitindo que se encaixe em qualquer ambiente de forma harmoniosa.",
+                "alt": "Persiana Horizontal"
+            },
+            {
+                "imagem": "https://i.imgur.com/s1Zm6Yh.png",
+                "titulo": "Persiana Vertical",
+                "texto": "Adaptam-se a vários tipos de ambientes e projetos trazendo um ar de aconchego.",
+                "alt": "Persiana Vertical"
+            }, {
+                "imagem": "https://i.imgur.com/7vuZBxb.png",
+                "titulo": "Cortina Prega Americana",
+                "texto": "Modelo clássico, com detalhes feitos com três pregas agrupadas.",
+                "alt": "Cortina Prega Americana"
+            }
+        ]
+
