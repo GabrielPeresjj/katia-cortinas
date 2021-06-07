@@ -10,9 +10,6 @@ function Header() {
                 <a className="header__pages-button" href="/sobre">
                     <b>Sobre</b>
                 </a>
-                <a className="header__pages-button" href="/contato">
-                    <b>Contato</b>
-                </a>
             </div>
         </div>
 

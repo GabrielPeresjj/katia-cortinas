@@ -1,15 +1,18 @@
 import './App.css'
-import Card from './components/Card/Card'
-import Header from './components/Header/Header'
-import Footer from './components/Footer/Footer'
+import { Route, Switch, BrowserRouter as Router } from 'react-router-dom'
+import Home from './pages/Home'
+import Sobre from './pages/Sobre'
 
 function App() {
   return (
-    <div className="container">
-      <Header />
-      <Card />
-      <Footer />
-    </div>
+    <Router>
+      <div className="container">
+        <Switch>
+          <Route path="/" exact component={Home} />
+          <Route path="/Sobre" component={Sobre} />
+        </Switch>
+      </div>
+    </Router>
   );
 }
 
